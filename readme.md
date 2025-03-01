@@ -42,5 +42,5 @@ Este projeto demonstra a importância de compreender o comportamento dos cliente
 
 
 ## Informações de Contato
-- **LinkedIn**: [https://www.linkedin.com/in/wellison-silva/]
+- **LinkedIn**: [Wellison Silva](https://www.linkedin.com/in/wellison-silva/)
 
