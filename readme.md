@@ -39,18 +39,8 @@ A análise revelou insights importantes sobre os fatores que contribuem para o c
 ## Conclusão
 Este projeto demonstra a importância de compreender o comportamento dos clientes e aplicar modelos preditivos para antecipar o churn. Os insights gerados a partir dessa análise podem ajudar os bancos a desenvolver estratégias para reter clientes valiosos.
 
-## Tecnologias Utilizadas
-- **Linguagem**: Python
-- **Bibliotecas**: Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn
-- **Ambiente de Desenvolvimento**: Jupyter Notebook
 
-## Como Executar o Projeto
-1. Clone este repositório.
-2. Instale as dependências listadas no arquivo `requirements.txt`.
-3. Execute o notebook Jupyter para replicar a análise.
 
 ## Informações de Contato
-- **Nome**: Wellison Silva
-- **E-mail**: [seu-email@example.com]
-- **LinkedIn**: [seu-perfil-linkedin]
+- **LinkedIn**: [https://www.linkedin.com/in/wellison-silva/]
 
